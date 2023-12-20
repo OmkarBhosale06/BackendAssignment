@@ -7,7 +7,7 @@ Q1)const input = { a: 1, b: 2, c: 3 };
 above is the input for the problem and you have to write a javascript program to convert it to
 
 const output = [{ a: 1 }, { b: 2 }, { c: 3 }];
-![image](https://github.com/OmkarBhosale06/BackendAssignment/assets/88712189/40f06982-11e8-4121-8e78-d9afc16a2d93)
+![image](https://github.com/OmkarBhosale06/BackendAssignment/assets/88712189/740a675f-f271-496d-a454-7f95fa5e82ac)
 
 
 Q2)const input [{ a: 1 }, { b: 2 }, { c: 3 }];
