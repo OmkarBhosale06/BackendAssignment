@@ -1,15 +1,9 @@
 const input = {a:1,b:2,c:3}
 console.log('input-->',input)
-let ans = []
-let j=0
+const ans = []
 for (let key in input) {
-  
-  if (Object.hasOwnProperty.call(input, key)) {
     let value = input[key];
-    ans[j]={[key]:value}
-    j++
-    
-  }
+    ans.push({ [key]: value });
 }
 ///------
 console.log('ans->',ans)
